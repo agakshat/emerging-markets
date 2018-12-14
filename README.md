@@ -1,4 +1,4 @@
-# Project for 73421: Emerging Markets
+## Effect of inclusivity of political institutions and regime transitions on a nation's economy
 
 ### Work done with Alexander Bendyk
 
